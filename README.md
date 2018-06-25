@@ -24,3 +24,12 @@
     key = new Nimiq.PrivateKey(privateKey);
     keyPair = Nimiq.KeyPair.derive(key);
     seed = keyPair.toHex();
+<br>
+<br>
+
+**Specify network to which you want to connect**
+
+    Nimiq.GenesisConfig.main(); // mainnet
+    Nimiq.GenesisConfig.test(); // testnet
+    Nimiq.GenesisConfig.bounty(); // for bounties
+    Nimiq.GenesisConfig.dev(); // for development
