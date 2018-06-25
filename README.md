@@ -7,8 +7,9 @@
 * [JSON RPC API](https://github.com/nimiq-network/core/wiki/JSON-RPC-API)
  
  
-**How to get wallet seed (priv key) from 24 words (mnemonic phrase) and vice-versa**
+**How to get private key from 24 words (mnemonic phrase) and vice-versa**
 
 - Get JS script https://github.com/nimiq/mnemonic-phrase
 - Include it into an empty index.html
 - Open the html localy and use commands provided in the repo
+
