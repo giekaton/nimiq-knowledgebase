@@ -37,7 +37,9 @@
 <br>
 
 **Nimiq wallets public addresses**
+
 The actual address is 36 characters length and has no spaces, like this: `NQ488CKHBA242VR3N249N8MNJ5XX74DB5XJ8`
+
 For better readability, the address can be presented with spaces, like this: `NQ48 8CKH BA24 2VR3 N249 N8MN J5XX 74DB 5XJ8`
 
 Sometimes addresses are presented with "+" or "20%" characters instead of spaces - that's how browsers encode spaces. This can be observed in page URLs, e.g.:
