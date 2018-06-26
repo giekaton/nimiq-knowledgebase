@@ -30,10 +30,9 @@
 
 **Specify network to which you want to connect**
 
+Available networks: main, test, bounty, dev
+
     Nimiq.GenesisConfig.main(); // mainnet
-    Nimiq.GenesisConfig.test(); // testnet
-    Nimiq.GenesisConfig.bounty(); // for bounties
-    Nimiq.GenesisConfig.dev(); // for development
 <br>
 <br>
 
