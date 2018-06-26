@@ -11,6 +11,8 @@
 <br>
 <br>
 
+**How to access the Nimiq object in the most simple way**
+
 **How to get private key from 24 recovery words (mnemonic phrase) and vice-versa**
 
 - Get JS script https://github.com/nimiq/mnemonic-phrase
