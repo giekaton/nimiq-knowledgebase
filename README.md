@@ -52,16 +52,6 @@ Available networks: main, test, bounty, dev
 <br>
 <br>
 
-**Nimiq useful docs and tutorials**
-
-* [Running a Nimiq Node on a Digital Ocean droplet](https://gist.github.com/rlafranchi/6a1772c07c1eccafe2f21f784632504d)
-* [How to send NIM with the Node.js API](https://nimiq.community/blog/sending-nim-with-the-api/)
-* [JSON RPC API](https://github.com/nimiq-network/core/wiki/JSON-RPC-API)
-* [JSON-RPC Client](https://github.com/nimiq-network/core/blob/master/doc/json-rpc-client.md)
-<br>
-<br>
-<br>
-
 **Nimiq wallets public addresses**
 
 The actual address is 36 characters length and has no spaces, like this: `NQ488CKHBA242VR3N249N8MNJ5XX74DB5XJ8`
@@ -74,3 +64,17 @@ This can be observed in URLs, e.g.:
 `https://nimiq.watch/#NQ40+M9RK+T73M+CJ68+3LEK+R319+KGN1+0FQU+43L9`
 
 The best practice is to always use the actual address (without spaces) everywhere, but add spaces only on the front-end for user-friendly representation.
+<br>
+<br>
+<br>
+
+**Nimiq useful docs and tutorials**
+
+* [Running a Nimiq Node on a Digital Ocean droplet](https://gist.github.com/rlafranchi/6a1772c07c1eccafe2f21f784632504d)
+* [How to send NIM with the Node.js API](https://nimiq.community/blog/sending-nim-with-the-api/)
+* [JSON RPC API](https://github.com/nimiq-network/core/wiki/JSON-RPC-API)
+* [JSON-RPC Client](https://github.com/nimiq-network/core/blob/master/doc/json-rpc-client.md)
+<br>
+<br>
+<br>
+
