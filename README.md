@@ -19,7 +19,7 @@ Developers: There is a massive workforce of web developers that want to build ap
 
 Merchants: Nimiq is designed to scale and is currently fee-less. We plan to continue adding features to Nimiq so is the de-facto blockchain for day to day payments.
 
-Users: Nimiq does not require installation. We design the ecosystem of applications with users in mind so is intuitive, fun and extremely safe at the same time. An example of this is one of the unique features of Nimiq: Identicons
+Users: Nimiq does not require installation. We design the ecosystem of applications with users in mind so is intuitive, fun and extremely safe at the same time.
 <br>
 <br>
 
