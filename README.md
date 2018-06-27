@@ -16,7 +16,7 @@ Nimiq is a browser-based blockchain which is why It is a payment protocol native
 
 ### How to start working with Nimiq in an easy way
 
-Download files from this repository and launch `index.html` in your browser. Press F12 to open browser console where you can access Nimiq object and execute different commands.
+Download this repository and launch `index.html` in your browser. Press F12 to open browser console where you can access Nimiq object and execute different commands.
 
 For a more serious development, please see the official Nimiq core repository.
 <br>
