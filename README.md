@@ -16,7 +16,7 @@ Nimiq is a browser-based blockchain which is why It is a payment protocol native
 
 ### How to start working with Nimiq in an easy way
 
-Download files from this repository and launch `index.html` in your browser. Press F12 to open browser console where you will be able to access Nimiq object and execute different commands.
+Download files from this repository and launch `index.html` in your browser. Press F12 to open browser console where you can access Nimiq object and execute different commands.
 
 For a more serious development, please see the official Nimiq core repository.
 <br>
@@ -25,9 +25,12 @@ For a more serious development, please see the official Nimiq core repository.
 
 ### Connect to a network
 
-Available networks: main, test, bounty, dev
+In `index.html` console use the following command to select the network.
 
     Nimiq.GenesisConfig.main(); // mainnet
+
+Available networks: `main`, `test`, `bounty`, `dev`
+<br>
 <br>
 
 ### How to get private key from 24 recovery words (mnemonic phrase) and vice-versa
