@@ -25,7 +25,7 @@ For a more serious development, please see the official Nimiq core repository.
 
 ### Select the network
 
-First thing you need to do, is to select the network you are going to connect. In `index.html` console use the following command to select the network.
+The first thing you need to do, is to select the network to which you are going to connect. In `index.html` console use the following command to select the network.
 
     Nimiq.GenesisConfig.main(); // mainnet
 
