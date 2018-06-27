@@ -10,6 +10,7 @@
 * [JSON-RPC Client](https://github.com/nimiq-network/core/blob/master/doc/json-rpc-client.md)
 <br>
 <br>
+<br>
 
 **What is Nimiq?**
 
@@ -22,6 +23,7 @@ Merchants: Nimiq is designed to scale and is currently fee-less. We plan to cont
 Users: Nimiq does not require installation. We design the ecosystem of applications with users in mind so is intuitive, fun and extremely safe at the same time.
 <br>
 <br>
+<br>
 
 **How to start working with Nimiq in an easy way?**
 
@@ -30,12 +32,14 @@ Download files from this repository and launch index.html in your browser. Press
 For a more serious development, please see the official Nimiq core repository.
 <br>
 <br>
+<br>
 
 **How to get private key from 24 recovery words (mnemonic phrase) and vice-versa**
 
 - Get JS script https://github.com/nimiq/mnemonic-phrase
 - Include it into an empty index.html
 - Open the html localy and use commands provided in the repo
+<br>
 <br>
 <br>
 
@@ -47,12 +51,14 @@ For a more serious development, please see the official Nimiq core repository.
     seed = keyPair.toHex();
 <br>
 <br>
+<br>
 
 **Specify network to which you want to connect**
 
 Available networks: main, test, bounty, dev
 
     Nimiq.GenesisConfig.main(); // mainnet
+<br>
 <br>
 <br>
 
