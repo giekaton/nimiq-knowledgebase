@@ -32,6 +32,7 @@ The first thing you need to do, is to select the network to which you are going 
 Available networks: `main`, `test`, `bounty`, `dev`
 <br>
 <br>
+<br>
 
 ### How to get private key from 24 recovery words (mnemonic phrase) and vice-versa
 
