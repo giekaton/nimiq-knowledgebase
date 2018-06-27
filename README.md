@@ -1,6 +1,6 @@
 # Nimiq Knowledgebase
 <br>
-<br>
+
 ### What is Nimiq?
 
 Nimiq is a browser-based blockchain which is why It is a payment protocol native to the web. By having payment protocol native to the web we aim to lower barriers of entry to **developers**, **merchants**, and **users**.
