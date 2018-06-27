@@ -13,14 +13,12 @@ Nimiq is a browser-based blockchain which is why It is a payment protocol native
 **Users**: Nimiq does not require installation. We design the ecosystem of applications with users in mind so is intuitive, fun and extremely safe at the same time.
 <br>
 <br>
-<br>
 
 ### How to start working with Nimiq in an easy way
 
-Download files from this repository and launch 'index.html' in your browser. Press F12 to open browser console where you will be able to access Nimiq object and execute different commands.
+Download files from this repository and launch `index.html` in your browser. Press F12 to open browser console where you will be able to access Nimiq object and execute different commands.
 
 For a more serious development, please see the official Nimiq core repository.
-<br>
 <br>
 <br>
 
@@ -31,11 +29,10 @@ Available networks: main, test, bounty, dev
     Nimiq.GenesisConfig.main(); // mainnet
 <br>
 <br>
-<br>
 
 ### How to get private key from 24 recovery words (mnemonic phrase) and vice-versa
 
-In 'index.html' console use the following commands:
+In `index.html` console use the following commands:
 
     // The input HEX string must be 16-32 bytes long.
     var key = 'a18532abfb31ba4e26d64a3ac3430969639aeb5f84b1c4124da0f3e323cdaced';
@@ -49,15 +46,13 @@ In 'index.html' console use the following commands:
 Source: https://github.com/nimiq/mnemonic-phrase
 <br>
 <br>
-<br>
 
 ### How to get a seed from a keypair of private and public keys**
 
-In `index.html console use the following command.
+In `index.html` console use the following command.
 
     var key = 'a18532abfb31ba4e26d64a3ac3430969639aeb5f84b1c4124da0f3e323cdaced';
     var seed = Nimiq.KeyPair.derive(Nimiq.PrivateKey.unserialize(Nimiq.BufferUtils.fromHex(key))).toHex();
-<br>
 <br>
 <br>
 
