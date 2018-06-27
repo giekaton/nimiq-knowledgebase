@@ -17,7 +17,7 @@ Users: Nimiq does not require installation. We design the ecosystem of applicati
 
 **How to start working with Nimiq in an easy way?**
 
-Download files from this repository and launch index.html in your browser. Press F12 to open browser console where you will be able to access Nimiq object and execute different commands directly in the console.
+Download files from this repository and launch index.html in your browser. Press F12 to open browser console where you will be able to access Nimiq object and execute different commands.
 
 For a more serious development, please see the official Nimiq core repository.
 <br>
