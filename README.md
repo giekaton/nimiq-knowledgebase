@@ -23,7 +23,11 @@ Users: Nimiq does not require installation. We design the ecosystem of applicati
 <br>
 <br>
 
-**How to access the Nimiq object in the most simple way**
+**How to start experimenting with Nimiq**
+
+Download files from this repository and launch index.html in your browser. Press F12 to open browser console where you will be able to access Nimiq object.
+<br>
+<br>
 
 **How to get private key from 24 recovery words (mnemonic phrase) and vice-versa**
 
