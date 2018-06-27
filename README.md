@@ -11,6 +11,18 @@
 <br>
 <br>
 
+**What is Nimiq?**
+
+Nimiq is a browser-based blockchain which is why It is a payment protocol native to the web. By having payment protocol native to the web we aim to lower barriers of entry to developers, merchants, and users.
+
+Developers: There is a massive workforce of web developers that want to build applications for cryptocurrencies but find it hard, complicated and dependent of 3-party applications. With Nimiq web developers can easily build applications without the need of a third party node. Users run their own node and so it becomes extremely easy to start developing on top of Nimiq. This will achieve a big ecosystem of applications and developers that can build/maintain/support these applications.
+
+Merchants: Nimiq is designed to scale and is currently fee-less. We plan to continue adding features to Nimiq so is the de-facto blockchain for day to day payments.
+
+Users: Nimiq does not require installation. We design the ecosystem of applications with users in mind so is intuitive, fun and extremely safe at the same time. An example of this is one of the unique features of Nimiq: Identicons
+<br>
+<br>
+
 **How to access the Nimiq object in the most simple way**
 
 **How to get private key from 24 recovery words (mnemonic phrase) and vice-versa**
