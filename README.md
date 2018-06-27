@@ -60,7 +60,7 @@ In `index.html` console use the following command.
     var seed = Nimiq.KeyPair.derive(Nimiq.PrivateKey.unserialize(Nimiq.BufferUtils.fromHex(key))).toHex();
 <br>
 
-### Nimiq wallets public addresses
+### Nimiq wallet addresses
 
 The actual address is 36 characters length and has no spaces, like this: `NQ488CKHBA242VR3N249N8MNJ5XX74DB5XJ8`
 
