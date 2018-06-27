@@ -2,16 +2,6 @@
 <br>
 <br>
 
-**Nimiq useful docs and tutorials**
-
-* [Running a Nimiq Node on a Digital Ocean droplet](https://gist.github.com/rlafranchi/6a1772c07c1eccafe2f21f784632504d)
-* [How to send NIM with the Node.js API](https://nimiq.community/blog/sending-nim-with-the-api/)
-* [JSON RPC API](https://github.com/nimiq-network/core/wiki/JSON-RPC-API)
-* [JSON-RPC Client](https://github.com/nimiq-network/core/blob/master/doc/json-rpc-client.md)
-<br>
-<br>
-<br>
-
 **What is Nimiq?**
 
 Nimiq is a browser-based blockchain which is why It is a payment protocol native to the web. By having payment protocol native to the web we aim to lower barriers of entry to developers, merchants, and users.
@@ -58,6 +48,16 @@ For a more serious development, please see the official Nimiq core repository.
 Available networks: main, test, bounty, dev
 
     Nimiq.GenesisConfig.main(); // mainnet
+<br>
+<br>
+<br>
+
+**Nimiq useful docs and tutorials**
+
+* [Running a Nimiq Node on a Digital Ocean droplet](https://gist.github.com/rlafranchi/6a1772c07c1eccafe2f21f784632504d)
+* [How to send NIM with the Node.js API](https://nimiq.community/blog/sending-nim-with-the-api/)
+* [JSON RPC API](https://github.com/nimiq-network/core/wiki/JSON-RPC-API)
+* [JSON-RPC Client](https://github.com/nimiq-network/core/blob/master/doc/json-rpc-client.md)
 <br>
 <br>
 <br>
