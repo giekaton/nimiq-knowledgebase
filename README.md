@@ -1,7 +1,6 @@
 # Nimiq Knowledgebase
 <br>
 <br>
-
 ### What is Nimiq?
 
 Nimiq is a browser-based blockchain which is why It is a payment protocol native to the web. By having payment protocol native to the web we aim to lower barriers of entry to **developers**, **merchants**, and **users**.
@@ -13,12 +12,14 @@ Nimiq is a browser-based blockchain which is why It is a payment protocol native
 **Users**: Nimiq does not require installation. We design the ecosystem of applications with users in mind so is intuitive, fun and extremely safe at the same time.
 <br>
 <br>
+<br>
 
 ### How to start working with Nimiq in an easy way
 
 Download files from this repository and launch `index.html` in your browser. Press F12 to open browser console where you will be able to access Nimiq object and execute different commands.
 
 For a more serious development, please see the official Nimiq core repository.
+<br>
 <br>
 <br>
 
@@ -45,6 +46,7 @@ In `index.html` console use the following commands:
 Source: https://github.com/nimiq/mnemonic-phrase
 <br>
 <br>
+<br>
 
 ### How to get a seed from a keypair of private and public keys
 
@@ -68,6 +70,7 @@ This can be observed in URLs, e.g.:
 When using address with spaces in command line, you need to enclose it with quotes, like this `"NQ48 8CKH BA24 2VR3 N249 N8MN J5XX 74DB 5XJ8"`
 
 The best practice is to always use the actual address (without spaces) everywhere, but add spaces only on the front-end for user-friendly representation.
+<br>
 <br>
 <br>
 
