@@ -35,10 +35,7 @@ For a more serious development, please see the official Nimiq core repository.
 
 **How to get a seed from a keypair of private and public keys**
 
-    privateKey = Buffer.from(MnemonicPhrase.mnemonicToKey( "word1 word2 word3 ..." ), "hex");
-    key = new Nimiq.PrivateKey(privateKey);
-    keyPair = Nimiq.KeyPair.derive(key);
-    seed = keyPair.toHex();
+    seed = Nimiq.KeyPair.derive(Nimiq.PrivateKey.unserialize(Nimiq.BufferUtils.fromHex('priv key string here'))).toHex();
 <br>
 <br>
 <br>
